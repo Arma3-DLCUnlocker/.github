@@ -9,7 +9,7 @@ This tool streamlines DLC management for supported expansions, content packs, an
 
 # 🔗 Get the Latest Release
 
-* [📦 View All Releases]()
+* [📦 View All Releases](https://github.com/Arma3-DLCUnlocker/.github/releases/)
 
 ---
 
